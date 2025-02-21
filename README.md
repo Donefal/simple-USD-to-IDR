@@ -1,1 +1,1 @@
-A simple USD to IDR using GUI and Web Scrapping
+A USD to IDR converter using a simple GUI and Web Scrapping
